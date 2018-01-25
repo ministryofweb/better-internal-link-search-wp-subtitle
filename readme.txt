@@ -5,8 +5,8 @@ Tags: links, internal links, search, wps, wp subtitle, subtitle
 Requires at least: 4.6
 Tested up to: 4.9.2
 Stable tag: 0.1.0
-License: GPL-2.0+
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPL-3.0
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Adds support for the "WP Subtitle" plugin to the "Better Internal Link Search" plugin.
 
