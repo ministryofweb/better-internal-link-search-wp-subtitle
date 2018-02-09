@@ -3,8 +3,9 @@
 Contributors: mjaschen
 Tags: links, internal links, search, wps, wp subtitle, subtitle
 Requires at least: 4.6
-Tested up to: 4.9.2
-Stable tag: 0.1.0
+Tested up to: 4.9.4
+Requires PHP: 5.3
+Stable tag: 0.1.2
 License: GPL-3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -20,7 +21,7 @@ Better Internal Link Search improves the default internal link searching feature
 
 ### Additional Resources
 
-* [Write a review](https://wordpress.org/support/view/plugin-reviews/better-internal-link-search-wp-subtitle#postform)
+* [Write a review](https://wordpress.org/plugins/wp-subtitle-support-for-better-internal-link-search/#postform)
 * [Contribute on GitHub](https://github.com/ministryofweb/better-internal-link-search-wp-subtitle)
 * [Follow @mjaschen](https://twitter.com/mjaschen)
 * [Visit Marcus Jaschen](https://www.marcusjaschen.de/)
@@ -31,11 +32,19 @@ Installing WP Subtitle Support for Better Internal Link Search is just like inst
 
 ## Screenshots
 
-1. Standard search results from Better Internal Link Search. The post with the given subtitle is not found.
+1. Standard search results from Better Internal Link Search. The post which has the search query in its subtitle is not found.
 2. Results with WP Subtitle Support for Better Internal Link Search activated. The post with the given subtitle is shown in the results list.
 
 ## Changelog
 
-### 0.1.0 - 2018-01-25
+### 0.1.2 - 2018-02-09
+
+* tested with WordPress 4.9.4
+
+### 0.1.1 - 2018-01-29
+
+* add minimum required PHP version
+
+### 0.1.0 - 2018-01-29
 
 * Initial release.
